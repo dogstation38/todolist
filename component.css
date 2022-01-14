@@ -1,0 +1,15 @@
+
+
+@import "https://unpkg.com/water.css@2/out/water.min.css";
+
+body {
+  font-size: 1.5em;
+}
+
+section {
+  display: flex;
+}
+
+li:hover {
+  cursor: pointer;
+}
